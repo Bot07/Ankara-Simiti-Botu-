@@ -310,4 +310,4 @@ client.on('message', msg => {
 });
 
 
-client.login('MzkzNDM0MzM5NDczMzU4ODY5.DTuYrA.Zyubb8KIDS0SyDaKTVySTndMDYE');
+client.login(process.env.'MzkzNDM0MzM5NDczMzU4ODY5.DTuYrA.Zyubb8KIDS0SyDaKTVySTndMDYE');
