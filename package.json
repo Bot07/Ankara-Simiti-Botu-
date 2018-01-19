@@ -1,0 +1,23 @@
+{
+  "name": "asbbot.js",
+  "version": "1.0.0",
+  "description": "Türkçe yardım ve destek botu",
+  "main": "asbbot.js",
+  "author": "AgentSLyaer",
+  "dependencies": {
+    "asbbot.js": "0.0.1",
+    "discord.js": "file:discord.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "o!deneme"
+  },
+  "repository": {
+    "type": "o!deneme",
+    "url": "deneme başarılı"
+  },
+  "keywords": [
+    "o!simitye"
+  ],
+  "license": "ISC"
+}
