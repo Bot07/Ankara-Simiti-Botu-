@@ -1,1 +1,1 @@
-worker: node asbbot.js
+worker node asbbot.js
