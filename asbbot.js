@@ -11,6 +11,17 @@ client.on("ready", () => {client.user.setGame('o!yardım | Eski Sürümü Yükle
 
 });
 client.on('message', msg => {
+if(msg.content === 'o!sunucular'){
+
+
+
+    msg.channel.send(client.guilds.map(g => g.name))
+
+
+
+ }
+	});
+client.on('message', msg => {
  if (msg.content === 'o!ping') {
     msg.reply(`Pong! ${client.ping/1000} saniye`);
   }
